@@ -1,0 +1,7 @@
+.git/
+.idea
+venv/
+.ipynb_checkpoints/
+__*
+*.csv
+*.zip
